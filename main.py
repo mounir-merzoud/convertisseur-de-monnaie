@@ -27,5 +27,5 @@ ajouter_devise('MZDY', 1.78)
 # Appeler la fonction pour effectuer la conversion
 convertir_devise()
 
-# Appeler la fonction pour effectuer la conversion
+
 convertir_devise()
